@@ -5,7 +5,7 @@ from datetime import datetime
 import os
 
 # Directory containing known face images
-known_faces_dir = '/Users/sagarchouksey/Desktop/Attendence with face/know_faces'
+known_faces_dir = '/Users/sujal/Desktop/Attendence with face/know_faces'
 
 # Load known faces
 known_faces = []
